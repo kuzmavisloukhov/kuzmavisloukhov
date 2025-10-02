@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Кузьма! 👋
 
-<!--
-**kuzmavisloukhov/kuzmavisloukhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+- 🎓 Студент МГК цифровых технологий
+- 💻 Изучаю различные языки програмирования и учусь применять эти языки на практике
+- 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
 
-Here are some ideas to get you started:
+## Мои навыки
+- Python
+- Git
+- GitHub
+- C++
+- JavaScript
+- C#
+- SQL
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связаться со мной
+- t.me/krevazik
+- kuzmavisloukhov@gmail.com
